@@ -1,3 +1,4 @@
 GVE modify macro integration test.
 Created through guarded mutation, commit, normal push, and remote verification.
 Second pass verifies modify-existing semantics, console readability, and retained staged-diff evidence.
+Third pass observes final task-block presentation with explicit separators.
