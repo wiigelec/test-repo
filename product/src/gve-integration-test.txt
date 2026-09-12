@@ -1,0 +1,2 @@
+GVE modify macro integration test.
+Created through guarded mutation, commit, normal push, and remote verification.
